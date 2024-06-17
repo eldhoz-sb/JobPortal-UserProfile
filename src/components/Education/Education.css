@@ -1,0 +1,28 @@
+div#person-education {
+    gap: 10px;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #d9d9d9;
+}
+
+
+.coursework {
+    line-clamp: 1; /* Show two lines by default */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical; /* For older browsers */
+    transition: max-height 0.3s ease;
+  }
+
+  .coursework.expanded {
+    line-clamp: unset;
+    -webkit-line-clamp: unset; /* Show full description when expanded */
+  }
+
+@media only screen and (max-width: 900px) {
+    div#person-education {
+        gap: 10px;
+        padding: 16px;
+    }
+  }

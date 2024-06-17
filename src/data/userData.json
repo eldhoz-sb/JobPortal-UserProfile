@@ -1,0 +1,70 @@
+{
+      "name": "John Wilcox",
+      "role": "UX Designer",
+      "email": "johnwilcox@gmail.com",
+      "phone": "+91 8884444888",
+      "location": "Bangalore, Karnataka, India",
+      "bio": "Passionate UX developer with over 5 years of experience in creating user-centered web applications. Proven track record in enhancing user engagement and satisfaction through innovative design and development practices.",
+      "availableForWork": true,
+      "skills": ["User Research", "UI Design", "Communication", "Prototyping"],
+      "experience": [
+        {
+          "id":2,
+          "title": "UX Designer",
+          "company": "CreativeTech Solutions",
+          "location": "Bangalore, Karnataka, India",
+          "startDate": "May 2022",
+          "endDate": "Present",
+          "logo": "https://creativetech-solutions.com/static/media/only%20logo%20(1).b9c33468.svg",
+          "description": "Led the UX design and development of a major e-commerce platform, resulting in a 20% increase in user engagement. Conducted user research and usability testing to inform design decisions and improve user experience. Collaborated with cross-functional teams to implement responsive and accessible web designs. Utilized HTML, CSS, JavaScript, and React to build interactive and dynamic user interfaces."
+        },
+        {
+          "id":1,
+          "title": "Front-End Developer",
+          "company": "InnovateWeb Inc.",
+          "companyId": 215,
+          "location": "Kochi, Kerala, India",
+          "startDate": "Jun 2018",
+          "endDate": "Apr 2022",
+          "logo": "https://i.ibb.co/6RnSQVy/innovateweb.png",
+          "description": "Developed and maintained web applications using modern JavaScript frameworks. Worked closely with UX designers to create seamless and visually appealing user experiences. Implemented best practices for web performance optimization and accessibility. Assisted in the redesign of the company’s main product, leading to a 15% increase in customer satisfaction."
+        }
+      ],
+      "education": [
+        {
+          "id": 2,
+          "institution": "Mahatma Gandhi University",
+          "institutionId": 1020,
+          "degree": "MSc Computer Science",
+          "startDate": "Jun 2022",
+          "endDate": "Ongoing",
+          "logo": "https://www.mgu.ac.in/assets/assets/images/logo-small.png",
+          "coursework": "Relevant Coursework: Human-Computer Interaction, Web Development, User Experience Design. Projects: Developed a mobile app prototype for a local startup, which won the Best UX Design award at the university’s annual tech showcase."
+        },
+        {
+          "id": 1,
+          "institution": "Mahatma Gandhi University",
+          "degree": "BSc Computer Science",
+          "startDate": "Jun 2019",
+          "endDate": "May 2022",
+          "logo": "https://www.mgu.ac.in/assets/assets/images/logo-small.png",
+          "coursework": "Relevant Coursework: Human-Computer Interaction, Web Development, User Experience Design. Projects: Developed a mobile app prototype for a local startup, which won the Best UX Design award at the university’s annual tech showcase."
+        }
+      ],
+      "certifications": [
+        {
+          "id": 2,
+          "title": "Google UX Design Specialization",
+          "issuer": "Google",
+          "dateAchieved": "Apr 2022",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png"
+        },
+        {
+          "id": 1,
+          "title": "Meta Front End Developer",
+          "issuer": "Meta",
+          "dateAchieved": "Jan 2022",
+          "logo": "https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png"
+        }
+      ]
+}

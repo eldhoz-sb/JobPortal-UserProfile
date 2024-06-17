@@ -1,0 +1,54 @@
+section#personal-info {
+    width: 30%;
+    gap: 25px;
+    border: 1px solid #d9d9d9;
+    border-radius: 8px;
+    padding: 30px;
+    position: sticky;
+    top: 25px;
+    left: 0;
+    margin: 25px 0px;
+}
+
+.profile-pic {
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    border-radius: 100px;
+    border: 3px solid #3D52A0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25)
+}
+
+.contact-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+div#person-info-i {
+    gap: 20px;
+}
+
+p.person-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+p.role {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+@media only screen and (max-width: 900px) {
+    section#personal-info {
+        width: auto;
+        gap: 25px;
+        border: 1px solid #d9d9d9;
+        border-radius: 8px;
+        padding: 30px;
+        position: relative;
+        margin: 0;
+    }
+  }
+
